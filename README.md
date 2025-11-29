@@ -1,3 +1,15 @@
+
+onboarding gorille :
+
+pas de bouton next, laisser les 3 petits points, trois fonds de couleurs différenes dégradés UI 2025 type revolut dans la range de couleur Berry Swipe. 
+
+
+images animées style fiver dans le onboarding
+
+penser aux licenses a crediter et ou avant de publier notamment les icons 
+
+
+
 /mnt/c/Users/verni/Desktop/Projects/berry_swipe
 
 
